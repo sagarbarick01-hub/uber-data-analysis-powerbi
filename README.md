@@ -1,98 +1,161 @@
 # 🚖 Uber Data Analysis Dashboard
 
-### 📊 Power BI | Data Analytics | Business Intelligence
+### 📊 Power BI | Business Intelligence | Data Analytics
 
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-blue?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-Analytics-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![Made By](https://img.shields.io/badge/Made%20By-Sagar%20Kumar%20Barick-orange?style=for-the-badge)
 
 ---
 
-## 📌 Project Overview
-
-This project is an **interactive Uber Data Analysis Dashboard** built using **Power BI**.  
-It analyzes ride booking data to uncover business insights related to **revenue, customer behavior, vehicle performance, cancellations, ratings, and location-based demand**.
-
-The goal of this project is to convert raw ride data into a clear, visual, and business-friendly dashboard that helps in better decision-making.
+## 📌 Project Title
+**Uber Data Analysis Dashboard using Power BI**
 
 ---
 
-## 🎯 Objectives
-
-- Track completed and lost bookings
-- Analyze total revenue and distance travelled
-- Compare vehicle-wise performance
-- Identify top pickup and drop locations
-- Analyze rider and driver ratings
-- Understand cancellation reasons
-- Study monthly and quarterly trends
-- Explore customer behavior and payment preferences
+## 📝 Brief One Line Summary
+An interactive dashboard analyzing Uber ride data to uncover insights on revenue, demand patterns, customer behavior, and operational efficiency.
 
 ---
 
-## 🧩 Problem Statement
-
-Ride-sharing businesses generate huge amounts of data every day.  
-However, without proper analysis, it becomes difficult to understand:
-
-- Which vehicle types generate the most revenue?
-- Where does the highest demand come from?
-- Why are bookings getting cancelled or lost?
-- Which customers contribute more to revenue?
-- What time slots and areas are busiest?
-
-This dashboard solves these problems by providing interactive and visual insights.
+## 📖 Overview
+This project focuses on analyzing Uber ride data using Power BI to generate meaningful business insights. The dashboard provides a clear view of bookings, revenue, rider behavior, and demand trends through interactive visualizations.
 
 ---
 
-## 📊 Dashboard Pages
+## ❗ Problem Statement
+Ride-sharing platforms generate large volumes of data, but extracting actionable insights is challenging.
 
-### 1️⃣ Overview Page
-- Completed Bookings
-- Lost Bookings
-- Revenue
-- Total Distance
-- Average Distance
-- Monthly and quarterly analysis
-- Revenue by vehicle type
-- Top pickup and drop locations
-- Average rider and driver ratings
+This project aims to:
+- Identify revenue-driving factors  
+- Analyze customer behavior  
+- Detect inefficiencies like cancellations  
+- Understand demand across time and location  
 
-### 2️⃣ Vehicle Page
-- Booking count by vehicle
-- Revenue by vehicle
-- Vehicle contribution percentage
-- Vehicle-wise performance comparison
+---
 
-### 3️⃣ Revenue Page
-- Revenue by customer
-- Revenue by vehicle
-- Revenue by payment method
-- Monthly revenue trend
-- Quarterly revenue trend
+## 📂 Dataset
+The dataset contains:
+- Booking status (Completed / Cancelled / Lost)  
+- Revenue and trip distance  
+- Vehicle type  
+- Pickup & drop locations  
+- Rider and driver ratings  
+- Payment methods  
+- Time-based data (monthly & quarterly)  
 
-### 4️⃣ Rider Page
-- Cancelled rides by reason
-- Payment method analysis
-- First-time riders
-- Returning riders
-- Regular riders
-- Detailed rider table
+---
 
-### 5️⃣ Location Page
-- Monthly total distance
-- Distance by vehicle type
-- Busy time slots
-- Busy areas
-- Location-based demand analysis
+## 🛠️ Tools and Technologies
+- Power BI  
+- DAX (Data Analysis Expressions)  
+- Data Modeling  
+- Data Visualization  
+
+---
+
+## ⚙️ Methods
+- Data Cleaning & Preprocessing  
+- KPI Creation (Bookings, Revenue, Distance)  
+- Time-based Analysis  
+- Customer & Vehicle Segmentation  
+- Interactive Dashboard Design  
+
+---
+
+## 🔍 Key Insights
+
+### 🚀 Demand Patterns
+Demand is concentrated in specific time slots and high-traffic locations.
+
+### 💰 Revenue Distribution
+A few vehicle categories contribute the majority of revenue.
+
+### ❌ Lost Bookings
+Lost bookings indicate missed revenue opportunities and operational inefficiencies.
+
+### 👤 Customer Behavior
+Returning and regular riders contribute significantly to consistent revenue.
+
+### 💳 Payment Trends
+Preferred payment methods influence booking completion rates.
+
+### ⭐ Ratings Analysis
+Ratings reflect service quality and customer satisfaction.
+
+---
+
+## 📊 Dashboard / Model / Output
+
+### 🔹 Overview Dashboard
+- KPIs: Bookings, Revenue, Distance  
+- Monthly & Quarterly trends  
+- Top locations  
+- Ratings  
+
+### 🔹 Vehicle Analysis
+- Booking count by vehicle  
+- Revenue contribution  
+
+### 🔹 Revenue Analysis
+- Revenue by customer, vehicle, and payment method  
+
+### 🔹 Rider Analysis
+- Cancellation reasons  
+- Rider segmentation  
+
+### 🔹 Location Analysis
+- Busy areas  
+- Peak time slots  
 
 ---
 
 ## 🖼️ Dashboard Preview
 
-![Overview Dashboard](./screenshots/overview.png)
-![Vehicle Analysis](./screenshots/vehicle.png)
-![Revenue Analysis](./screenshots/revenue.png)
-![Rider Analysis](./screenshots/rider.png)
-![Location Analysis](./screenshots/Location.png)
+![Overview](./screenshots/overview.png)
+![Vehicle](./screenshots/vehicle.png)
+![Revenue](./screenshots/revenue.png)
+![Rider](./screenshots/rider.png)
+![Location](./screenshots/Location.png)
+
+---
+
+## ▶️ How to Run this Project
+
+1. Download the `.pbix` file  
+2. Open using Power BI Desktop  
+3. Explore dashboards using filters and slicers  
+
+---
+
+## 📈 Results & Conclusion
+The analysis shows that business performance depends heavily on demand patterns, customer retention, and vehicle efficiency.
+
+Using these insights, businesses can:
+- Improve operational efficiency  
+- Optimize pricing strategies  
+- Enhance customer experience  
+- Increase revenue  
+
+---
+
+## 🔮 Future Work
+- Real-time data integration  
+- Predictive analytics  
+- Machine learning models  
+- Improved dashboard UI/UX  
+
+---
+
+## 👤 Author & Contact
+
+**Sagar Kumar Barick**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sagarkumarbarick)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/sagarbarick01-hub)
+
+---
+
+## ⭐ Support
+If you found this project useful, consider giving it a ⭐
