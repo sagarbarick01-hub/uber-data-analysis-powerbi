@@ -123,10 +123,11 @@ Ratings reflect service quality and customer satisfaction.
 
 ## ▶️ How to Run this Project
 
-1. Download the `.pbix` file  
-2. Open using Power BI Desktop  
-3. Explore dashboards using filters and slicers  
-
+1. Download the `Sagar_Uber_project.pbit` file from this repository.
+2. Open it using Power BI Desktop.
+3. Load the dataset if prompted.
+4. Navigate through the dashboard pages.
+5. Use filters and slicers to explore insights.
 ---
 
 ## 📈 Results & Conclusion
